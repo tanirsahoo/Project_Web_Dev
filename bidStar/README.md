@@ -1,6 +1,6 @@
 # Software Development Project
 ## Abstract
-Problem Statement:
+### Problem Statement:
 	
 	At present, people interested in buying rare and valuable items need to attend auction places physically.
 	This type of system is very manual and time consuming, and participation of general public is limited.
@@ -13,7 +13,7 @@ Problem Statement:
 	Hence, we have come up with a better alternative that removes physicality and introduces automated governance, making this system 
 	easily accessible to most people across India and in essence the world which allows them to auction valuable items comfortably]
 
-Objective: 
+### Objective: 
 
 	1. Provide a seamless payment gateway for quick and efficient fund transfer.
 	2. Paperless Bidding System.
@@ -30,7 +30,7 @@ Objective:
 	 5. Item Valuable & Insurance Policy
 	 6. Privacy Protection]
 
-Feasibility:
+### Feasibility:
 
 	1. Economic Feasibility:
 		Our platform will ensure profitability for the business in all cases, even where an item is not bid upon.
@@ -62,36 +62,36 @@ Feasibility:
 		This project will be developed by a team of four within a provided time of 4 months, of which 40% percent will be spent on designing, planning and
 		customer feedback. 20% of the time will be spent on the model/platform prototype development. The rest will be spent testing and product development.
 
-Overview:
+### Overview:
 	Our platform will have an online homepage which show a catalogue of ongoing and pending auctions. The user can register/login from the same page.
 	The user database will be fetched for authentication or will be updated upon successful registration. Upon successful authentication, the user can 
 	bid on any ongoing auction, wishlist any pending auction, or put their own item on auction. Once the item is verified, the item will be hosted 
 	on the platform for the users to bid upon. On any ongoing auction, users can bid the next higher bid as long as the auction will go on.
 	Our online
 
-Assumption: (Human-Element,Percepts|Input Data Format| System-Bound Restriction)
+### Assumption: (Human-Element,Percepts|Input Data Format| System-Bound Restriction)
 
 	1. Human-Elements:
 	2. System-Bound Restrictions:
 	3. Input-Data-Restrictions:
 
-Planning: [Planning Time = (Total Project Time%)*Total Project Time] | 
+### Planning: [Planning Time = (Total Project Time%)*Total Project Time] | 
           [Sum of Task Estimated + Buffer Time] | 
           [Buffer Time = Total Project Duration * Buffer Percentage]
 
 	1. Design Analysis:
 	2. Legal & Profitability Analysis:
 
-Platform: (System Requirement: Laptop,OS,Browser,Protocol,Cloud).
+### Platform: (System Requirement: Laptop,OS,Browser,Protocol,Cloud).
 
 	1. OS-Supported: Windows 10
 	2. Browser-Supported: Chrome
 
-Tools: MERN, MEAN, [HTML,CSS,JS], VCS(GitHub), Docs.
+### Tools: MERN, MEAN, [HTML,CSS,JS], VCS(GitHub), Docs.
 
 	1. VCS: Git,GitHub
 	2. Front-End: HTML,CSS,JavaScript with REACT Framework
 	3. Back-End: MongoDB, Node.js and Express.js
 
-Reference: (Not sure)
-## Manual
+### Reference: (Not sure)
+### Manual
