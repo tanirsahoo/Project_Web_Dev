@@ -2,7 +2,7 @@
 ## Abstract
 ### Problem Statement:
 
-In today's world,physical auctions are time-consuming and participation is limited by geography,terrain, and economic situation, more so when we add the antiques or auctionable items to that list.Hence, we have come up with a better alternative that removes physicality and introduces automated governance, making this system easily accessible to most people across India and in essence the world which allows them to auction valuable items comfortably.
+	In today's world,physical auctions are time-consuming and participation is limited by geography,terrain, and economic situation, more so when we add the antiques or 		auctionable items to that list.Hence, we have come up with a better alternative that removes physicality and introduces automated governance, making this system easily 	accessible to most people across India and in essence the world which allows them to auction valuable items comfortably.
 
 
 ### Objective: 
