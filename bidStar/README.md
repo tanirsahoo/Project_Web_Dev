@@ -19,6 +19,7 @@ Our platform is built using a pipeline approach that builds individual component
 ## Legal Feasibility:
 		
 During registration of any user, the user will need to agree to certain terms and conditions which include but are not limited to:
+
    I. Items will not include any piece of real estate.
    II. The user will need to provide their legal identity upon buying or selling of an item.
    III. Upon non-payment of a winning bid, the bidders reputation score will be impacted negatively.
