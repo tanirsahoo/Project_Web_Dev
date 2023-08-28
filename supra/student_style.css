@@ -1,0 +1,108 @@
+*{
+   margin:0;
+   padding:0;
+   box-sizing: border-box;
+   font-family:sans-sheriff;
+}
+
+.container{
+   position: relative;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border: 1px solid black;
+}
+
+.container .student_sign_up{
+  width:100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.container .student_sign_up .portal{
+  display: flex;
+  justify-content: center;
+  padding: 10px 10px 10px 10px;
+  border-bottom: 1px solid black;
+}
+
+.container .student_sign_up .portal .student_portal{
+  margin-right: 10px;
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
+
+.container .student_sign_up .title{
+  display:flex;
+  justify-content: center;
+  border-bottom: 1px solid black;
+  padding: 25px 10px 25px 10px
+}
+
+.container .student_sign_up .student_form{
+  display:flex;
+  justify-content: center;
+}
+
+.container .student_sign_up .login_btn{
+  display:flex;
+  padding: 10px 10px 10px 10px;
+  justify-content: center;
+}
+
+.container .student_sign_up .login_btn button{
+  background-color:#fff;
+  border:none;
+  text-align:center;
+  display: inline-block;
+  font-size: 15px;
+  color:blue;
+  cursor:pointer;
+}
+
+.container .student_sign_up .sign_up_btn{
+  display: flex;
+  justify-content: center;
+}
+
+.container .student_sign_up .sign_up_btn button{
+  background-color: #4caf50;
+  border:none;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+
+
+.container .project_info{
+  width:100%;
+  display: flex;
+  flex-direction: column; 
+}
+
+.container .project_info .logo{
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  padding: 10px 10px 10px 10px;
+}
+
+.container .project_info .title{
+  display: flex;
+  justify-content: center;
+  background-color: #183e7f;
+  padding: 10px 10px 10px 10px;
+  color: #fff;
+}
+
+.container .project_info .description{
+  display:flex;
+  justify-content: center;
+  background-color: #183e7f;
+  color: #fff;
+}

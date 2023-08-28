@@ -1,45 +1,61 @@
 <!DOCTYPE html>
  <head>
    <title>Student Upload Form</title>
+   <link rel="stylesheet" type="text/css" href="student_style.css">
  </head>
  <body>
-   <h1>Online MAR Repository Submission Form: Student Edition</h1>
-   <form action="/">
-     <label for="fname">First Name:</label>
-     <input type=text id="fname"/>
-     <br>
-     <br>
-     <label for="lname">Last Name:</label>
-     <input type=text id="lname"/>
-     <br>
-     <br>
-     <label for="roll">Class Roll:</label>
-     <input type=number id="roll" max="80" min="1"/>
-     <br>
-     <br>
-     <label for="sem">Semester:</label>
-     <input type=number id="sem" min="1" max="8"/>
-     <br>
-     <br>
-     <label for="cse">Department:</label>
-     <input type=radio id="cse" name="dept" value="CSE">
-     <label for="cse">CSE</label>
-     
-     <input type=radio id="it" name="dept" value="IT">
-     <label for="it">IT</label>
-     
-     <input type=radio id="ece"  name="dept" value="ECE">
-     <label for="ece">ECE</label>
-     
-     <input type=radio id="ee"  name="dept" value="EE">
-     <label for="ee">EE</label>
-     <br>
-     <br>
-     <label for="mar">MAR:</label>
-     <input type=file id="mar"/>
-     <br>
-     <br>
-     <button>Submit</button>
-   </form>
+  <div class="container">
+   <div class="student_sign_up">
+    <div class="portal">
+      <div class="student_portal"><p>Student</p></div>
+      <div class="teacher_portal"><p>Teacher</p></div>
+    </div>
+    <div class="title"><h1>Sign Up</h1></div>
+    <br>
+    <div class="student_form">
+     <form action="/">
+       <label for="fname">First Name:</label>
+       <input type=text id="fname"/>
+       <br>
+       <br>
+       <label for="lname">Last Name:</label>
+       <input type=text id="lname"/>
+       <br>
+       <br>
+       <label for="roll">Class Roll:</label>
+       <input type=number id="roll" max="80" min="1"/>
+       <br>
+       <br>
+       <label for="sem">Semester:</label>
+       <input type=number id="sem" min="1" max="8"/>
+       <br>
+       <br>
+       <label for="cse">Department:</label>
+       <input type=radio id="cse" name="dept" value="CSE">
+       <label for="cse">CSE</label>
+      
+       <input type=radio id="it" name="dept" value="IT">
+       <label for="it">IT</label>
+       
+       <input type=radio id="ece"  name="dept" value="ECE">
+       <label for="ece">ECE</label>
+      
+       <input type=radio id="ee"  name="dept" value="EE">
+       <label for="ee">EE</label>
+       <br>
+       <br>
+       </div>
+       <br>
+       <br>
+       <div class="sign_up_btn"><button>Sign Up</button></div>
+    </form>
+    <div class="login_btn"><p>Already have an account?</p><button>Login</button></div>
+   </div>
+   <div class="project_info">
+    <div class="logo"><img src="D:\Git_&_Github\Git\Project_Web_Dev\supra\UML_Designs\STCET-Logo.png" alt="Logo" width="500" height="500"></div>
+    <div class="title"><h1> MAMO </h1></div>
+    <div class="description"><h3>Register yourself to upload all your MAR documents</h3></div>
+   </div>
+  </div>
  </body>
 </html>
