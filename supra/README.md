@@ -1,2 +1,2 @@
-# Online MAR Repository
+# MAMO
 
