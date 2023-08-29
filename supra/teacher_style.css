@@ -26,19 +26,19 @@
   border-bottom: 1px solid black;
 }
 
-.container .student_sign_up .portal .student_portal{
+.container .student_sign_up .portal .student_portal a{
   margin-right: 10px;
-  text-decoration: underline;
-  text-decoration-color: blue;
-  text-decoration-thickness: 3px;
-  cursor: pointer;
-}
-
-.container .student_sign_up .portal .teacher_portal a{
-  margin-left: 10px;
   cursor: pointer;
   text-decoration: none;
   color: #000;
+}
+
+.container .student_sign_up .portal .teacher_portal{
+  margin-left: 10px;
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-color: blue;
+  text-decoration-thickness: 3px;
 }
 
 .container .student_sign_up .title{
