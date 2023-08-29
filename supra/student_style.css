@@ -28,9 +28,22 @@
 
 .container .student_sign_up .portal .student_portal{
   margin-right: 10px;
-  text-decoration: underline;
-  text-decoration-color: blue;
 }
+
+.container .student_sign_up .portal .student_portal:hover{
+  text-decoration: underline;
+  text-decoration-color: #147fe9;
+}
+
+.container .student_sign_up .portal .teacher_portal{
+  margin-left: 10px;
+}
+
+.container .student_sign_up .portal .teacher_portal:hover{
+  text-decoration: underline;
+  text-decoration-color: #147fe9;
+}
+
 
 .container .student_sign_up .title{
   display:flex;
